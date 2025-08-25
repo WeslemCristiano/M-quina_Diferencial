@@ -77,15 +77,3 @@ Para pontos x = [0.0, 0.1, 0.2, 0.3, 0.4, 0.5]
 ## 🏛️ História
 
 Charles Babbage (1791-1871) projetou a Máquina de Diferenças para automatizar cálculos matemáticos que anteriormente eram feitos manualmente. Embora nunca tenha sido completamente construída em sua época devido às limitações tecnológicas, o conceito foi revolucionário e é considerado um precursor dos computadores modernos.
-
-## 📝 Licença
-
-Este projeto é de código aberto e está disponível sob a licença MIT.
-
-## 👨‍💻 Autor
-
-Desenvolvido por [Weslem Cristiano](https://github.com/WeslemCristiano)
-
----
-
-*"A Máquina Analítica não tem pretensões de originar qualquer coisa. Ela pode fazer tudo o que sabemos como ordenar que ela execute."* - Ada Lovelace
